@@ -10,6 +10,7 @@
     <version>0.0.1</version>
     <modules>
         <module>two-sum</module>
+        <module>two-sum-upgrade-1</module>
     </modules>
 
     <properties>
